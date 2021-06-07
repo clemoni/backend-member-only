@@ -46,4 +46,4 @@ const initAction =
     }
   };
 
-export const runAction = initAction(dbUri)(dbConfig)("test");
+export const runAction = initAction(dbUri)(dbConfig)("members-only");
