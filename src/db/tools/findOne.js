@@ -1,4 +1,8 @@
-export const findOne = (client) => (db) => async (collection) => {
-  const res = await client.db(db).collection(collection).findOne({});
-  return res;
-};
+export const findOne =
+  (client) =>
+  (db) =>
+  (collection) =>
+  async (args = {}) => {
+    const res = await client.db(db).collection(collection).findOne(args);
+    return res;
+  };

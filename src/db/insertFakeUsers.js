@@ -5,9 +5,9 @@ const GROUP_ID_1 = "1234";
 const GROUP_ID_2 = "2345";
 const GROUP_ID_3 = "3456";
 
-const USER_ID_1 = "boyAP9y47mhOlYZO1PaDDnWOh8j1";
-const USER_ID_2 = "kz8dmO6cLBbPGHwFlQ6E75whzEC2";
-const USER_ID_3 = "V8EgPamWzvctpI8wUT6vXWpNKm23";
+const USER_ID_1 = "0UVRCbwLgtXshH0fbn8ZWJWgfSG3";
+const USER_ID_2 = "E22r7h2Q9AerVLL2TchJgcp5xOg2";
+const USER_ID_3 = "dE2iLPgEVpdLZtBsXrlQS2yPRsr1";
 
 const groups = [
   {
@@ -84,12 +84,12 @@ const messages = [
 const users = [
   {
     id: USER_ID_1,
-    email: "c.liscoet@gmail.com",
+    email: "cliscoet@gmail.com",
     fullName: "Clement Liscoet",
   },
   {
     id: USER_ID_2,
-    email: "camiesco@gmail.com",
+    email: "cami@gmail.com",
     fullName: "Camila Liscoet",
   },
   {
